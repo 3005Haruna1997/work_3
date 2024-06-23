@@ -1,0 +1,14 @@
+C:\Users\diesel\Desktop\Кирилл\C#project\SkillBoxС#projects\Project_1\homeWorks\work_3.1\CsharpProjects\work_3\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\diesel\Desktop\Кирилл\C#project\SkillBoxС#projects\Project_1\homeWorks\work_3.1\CsharpProjects\work_3\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\diesel\Desktop\Кирилл\C#project\SkillBoxС#projects\Project_1\homeWorks\work_3.1\CsharpProjects\work_3\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\diesel\Desktop\Кирилл\C#project\SkillBoxС#projects\Project_1\homeWorks\work_3.1\CsharpProjects\work_3\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\diesel\Desktop\Кирилл\C#project\SkillBoxС#projects\Project_1\homeWorks\work_3.1\CsharpProjects\work_3\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\diesel\Desktop\Кирилл\C#project\SkillBoxС#projects\Project_1\homeWorks\work_3.1\CsharpProjects\work_3\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diesel\Desktop\Кирилл\C#project\SkillBoxС#projects\Project_1\homeWorks\work_3.1\CsharpProjects\work_3\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\diesel\Desktop\Кирилл\C#project\SkillBoxС#projects\Project_1\homeWorks\work_3.1\CsharpProjects\work_3\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\diesel\Desktop\Кирилл\C#project\SkillBoxС#projects\Project_1\homeWorks\work_3.1\CsharpProjects\work_3\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\diesel\Desktop\Кирилл\C#project\SkillBoxС#projects\Project_1\homeWorks\work_3.1\CsharpProjects\work_3\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\diesel\Desktop\Кирилл\C#project\SkillBoxС#projects\Project_1\homeWorks\work_3.1\CsharpProjects\work_3\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\diesel\Desktop\Кирилл\C#project\SkillBoxС#projects\Project_1\homeWorks\work_3.1\CsharpProjects\work_3\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\diesel\Desktop\Кирилл\C#project\SkillBoxС#projects\Project_1\homeWorks\work_3.1\CsharpProjects\work_3\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\diesel\Desktop\Кирилл\C#project\SkillBoxС#projects\Project_1\homeWorks\work_3.1\CsharpProjects\work_3\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
